@@ -6,7 +6,7 @@ The objective was to develop a machine learning model that could accurately dist
 
 ## Data
 
-To construct this classifier, I utilized over 10,000 randomly selected images of dogs and cats as input to train the model. These images were deliberately chosen to encompass various lighting conditions, enhancing the model's ability to generalize.
+To construct this classifier, I utilised over 10,000 randomly selected images of dogs and cats as input to train the model. These images were deliberately chosen to encompass various lighting conditions, enhancing the model's ability to generalise.
 
 ## Steps taken to imporove the Performace of the model
 •To increase data diversity and improve generalization, I applied transformations such as shear range, zoom range, and horizontal flip to my dataset.
